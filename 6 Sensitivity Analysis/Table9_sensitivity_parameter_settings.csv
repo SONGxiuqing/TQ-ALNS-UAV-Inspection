@@ -1,0 +1,4 @@
+﻿Parameter category,Symbol,Description,Tested levels,Benchmark value
+Risk/safety parameter,beta,Confidence level of the energy-consumption chance constraint,"0.80, 0.85, 0.90, 0.95, 0.99",0.95
+Demand-scale parameter,kappa,Inspection-demand scaling factor,"0.80, 1.00, 1.20, 1.50",1.00
+UAV performance parameter,battery scale,Battery-capacity scaling factor,"0.80, 1.00, 1.20",1.00

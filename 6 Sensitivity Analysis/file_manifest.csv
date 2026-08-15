@@ -1,0 +1,12 @@
+﻿File,Rows,Purpose
+06_1_energy_confidence_level/Figure3_beta_sensitivity_raw_10runs.csv,50,run-level results
+06_1_energy_confidence_level/Figure3_beta_sensitivity_summary.csv,5,summary/configuration data
+06_2_inspection_demand_scale/Figure4_demand_scale_sensitivity_raw_10runs.csv,40,run-level results
+06_2_inspection_demand_scale/Figure4_demand_scale_sensitivity_summary.csv,4,summary/configuration data
+06_3_battery_capacity/Figure5_battery_capacity_sensitivity_raw_10runs.csv,30,run-level results
+06_3_battery_capacity/Figure5_battery_capacity_sensitivity_summary.csv,3,summary/configuration data
+Chapter6_experiment_settings.csv,16,summary/configuration data
+Chapter6_figure_summary_all.csv,12,summary/configuration data
+Table9_sensitivity_parameter_settings.csv,3,summary/configuration data
+all_runs/Chapter6_sensitivity_raw_runs_all.csv,120,run-level results
+data_consistency_check.csv,3,summary/configuration data

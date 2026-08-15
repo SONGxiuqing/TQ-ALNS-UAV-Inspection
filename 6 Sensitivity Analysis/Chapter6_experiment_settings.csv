@@ -1,0 +1,17 @@
+﻿Setting,Value
+Base spatial instance,Medium-scale
+Candidate platform sites,15
+Monitoring points,50
+Hazardous sources,3
+Fixed no-fly zones,3
+Base instance seed,20260805
+Search seeds,1001-1010
+Independent runs per level,10
+Maximum iterations per run,8000
+Time limit per run,600 s
+Minimum opened platforms,1
+Maximum opened platforms,5
+Maximum UAVs per platform,6
+Initial opened platforms,3
+Minimum coverage requirement,0.900
+Algorithm,TQ-ALNS
