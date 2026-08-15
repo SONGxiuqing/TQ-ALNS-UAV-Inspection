@@ -1,0 +1,6 @@
+﻿Instance size,Variant,Removed repair mechanism,Runs,Valid runs,Mean objective value,Gap from Full (%),Std. Dev.,CV (%),Mean coverage rate (%),Feasibility rate (%),Mean time (s)
+Medium-scale,Full TQ-ALNS,None,10,10,191.86,0.00,11.90,6.20,100.00,100.00,0.96
+Medium-scale,w/o NFZ repair,No-fly-zone detour / route-accessibility repair,10,10,212.66,10.84,10.37,4.88,100.00,100.00,1.28
+Medium-scale,w/o Energy repair,Energy chance-constraint and safe-return repair,10,10,191.86,0.00,11.90,6.20,100.00,100.00,0.94
+Medium-scale,w/o Compatibility repair,UAV-type compatibility repair,10,10,242.06,26.16,24.89,10.28,100.00,100.00,0.81
+Medium-scale,w/o All specific repairs,All tailored repair mechanisms,10,10,238.21,24.15,18.92,7.94,98.20,100.00,1.53

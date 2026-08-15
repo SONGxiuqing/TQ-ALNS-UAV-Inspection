@@ -1,0 +1,3 @@
+﻿Instance size,Algorithm,Runs,Valid runs,Mean objective value,Standard deviation,CV (%),Mean deviation from run BKS (%),Mean coverage rate (%),Mean open platforms,Mean time (s),Feasibility rate (%)
+Small-scale,MIP / benchmark,10,10,114.12092994451639,6.1701290754920635,5.4066586019688705,0.0,98.75,3.0,0.0571988582611084,100.0
+Small-scale,ALNS+Q-learning+SA,10,10,118.02197265369861,9.901428341023875,8.389478771107102,3.3608268661427956,100.0,3.0,1.5288317680358887,100.0

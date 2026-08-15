@@ -1,0 +1,9 @@
+﻿Instance,Current manuscript Table 5,TQ-ALNS 10-run raw data,Gurobi run-level raw data,Status
+M50,Yes,10/10,Yes,Complete raw support
+M60,Yes,10/10,Yes,Complete raw support
+M70,Yes,10/10,Yes,Complete raw support
+M80,Yes,10/10,Yes,Complete raw support
+L100,Yes,10/10,Yes,Complete raw support
+L120,Yes,10/10,No,TQ-ALNS complete; Gurobi raw missing
+L150,Yes,10/10,No,TQ-ALNS complete; Gurobi raw missing
+L170,Yes,10/10,Yes,Complete raw support

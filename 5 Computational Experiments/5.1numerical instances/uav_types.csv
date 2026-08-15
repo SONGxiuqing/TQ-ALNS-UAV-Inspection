@@ -1,0 +1,4 @@
+﻿Type,Internal type id,Description,Acquisition cost (RMB),Maintenance cost (10^4 RMB),Speed (km/h),Battery capacity (Wh),Mean unit-distance energy consumption (Wh/km),Std. dev. unit-distance energy consumption (Wh/km),Maximum one-way service radius (km)
+Type A,K0,Light inspection UAV,120000,1.0,60.0,800.0,20.0,4.0,5.0
+Type B,K1,Medium long-endurance UAV,260000,1.4,80.0,1200.0,25.0,5.0,7.0
+Type C,K2,Heavy-duty UAV,480000,2.0,100.0,2000.0,35.0,7.0,10.0

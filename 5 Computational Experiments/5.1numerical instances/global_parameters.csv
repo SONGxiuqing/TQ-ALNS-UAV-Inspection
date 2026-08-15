@@ -1,0 +1,15 @@
+﻿Parameter,Symbol,Value,Unit,Scope
+Energy chance-constraint confidence level,beta,0.95,-,Manuscript Section 5.1
+Minimum system coverage requirement,rho,0.9,-,Manuscript Section 5.1
+Platform construction cost,-,250000,RMB/platform,Manuscript Section 5.1
+Type A UAV acquisition cost,-,120000,RMB/UAV,Manuscript Section 5.1
+Type B UAV acquisition cost,-,260000,RMB/UAV,Manuscript Section 5.1
+Type C UAV acquisition cost,-,480000,RMB/UAV,Manuscript Section 5.1
+Converted energy cost,-,0.8,RMB/km,Manuscript Section 5.1
+Uncovered-point penalty,-,15000,RMB/point,Manuscript Section 5.1
+Platform-hazard minimum safety distance,D_min,500,m,Computational input
+Planning horizon,T,16,h,Computational input
+Normal one-sided quantile at beta=0.95,Phi^-1(beta),1.645,-,Computational input
+No-fly-zone crossing detour factor,-,1.4,-,Computational input
+Spatial testbed width,-,10000,m,Computational input
+Spatial testbed height,-,10000,m,Computational input

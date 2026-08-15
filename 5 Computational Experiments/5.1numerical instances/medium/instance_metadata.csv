@@ -1,0 +1,14 @@
+﻿Field,Value
+Instance size,Medium-scale
+Random seed,7
+Candidate platform sites,15
+Required opened platforms,4
+Monitoring points,50
+Hazardous sources,3
+No-fly zones,3
+Number of UAVs,4
+Minimum coverage requirement,0.9
+Energy confidence level beta,0.95
+Spatial width (m),10000.0
+Spatial height (m),10000.0
+Valid candidate platforms,15

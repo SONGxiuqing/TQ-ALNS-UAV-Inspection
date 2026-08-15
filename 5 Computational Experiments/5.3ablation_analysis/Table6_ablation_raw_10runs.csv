@@ -1,0 +1,51 @@
+﻿Instance size,Variant,Removed repair mechanism,Run,Instance seed,Search seed,Objective value,Coverage rate (%),Feasible,Computational time (s),Open platforms
+Medium-scale,Full TQ-ALNS,None,1,2026070701,2026080101,184.07136867117887,100.0,1,0.9741852283477783,4
+Medium-scale,w/o NFZ repair,No-fly-zone detour / route-accessibility repair,1,2026070701,2026080101,220.05693965249012,100.0,1,1.4139955043792725,4
+Medium-scale,w/o Energy repair,Energy chance-constraint and safe-return repair,1,2026070701,2026080101,184.07136867117887,100.0,1,1.0222055912017822,4
+Medium-scale,w/o Compatibility repair,UAV-type compatibility repair,1,2026070701,2026080101,234.05102311382944,100.0,1,0.8627231121063232,4
+Medium-scale,w/o All specific repairs,All tailored repair mechanisms,1,2026070701,2026080101,234.05102311382944,100.0,1,1.3748362064361572,4
+Medium-scale,Full TQ-ALNS,None,2,2026070702,2026080102,184.07894906378817,100.0,1,1.11020827293396,4
+Medium-scale,w/o NFZ repair,No-fly-zone detour / route-accessibility repair,2,2026070702,2026080102,220.0682787747431,100.0,1,1.310431957244873,4
+Medium-scale,w/o Energy repair,Energy chance-constraint and safe-return repair,2,2026070702,2026080102,184.07894906378817,100.0,1,1.119459629058838,4
+Medium-scale,w/o Compatibility repair,UAV-type compatibility repair,2,2026070702,2026080102,234.0625094441419,100.0,1,0.7952771186828613,4
+Medium-scale,w/o All specific repairs,All tailored repair mechanisms,2,2026070702,2026080102,232.05078139678488,92.0,1,1.2637746334075928,4
+Medium-scale,Full TQ-ALNS,None,3,2026070703,2026080103,198.0516852388259,100.0,1,0.9921128749847412,4
+Medium-scale,w/o NFZ repair,No-fly-zone detour / route-accessibility repair,3,2026070703,2026080103,198.06138844786125,100.0,1,1.45963454246521,4
+Medium-scale,w/o Energy repair,Energy chance-constraint and safe-return repair,3,2026070703,2026080103,198.0516852388259,100.0,1,0.9235332012176514,4
+Medium-scale,w/o Compatibility repair,UAV-type compatibility repair,3,2026070703,2026080103,256.05520241311723,100.0,1,0.8161296844482422,4
+Medium-scale,w/o All specific repairs,All tailored repair mechanisms,3,2026070703,2026080103,234.05583685499892,100.0,1,1.7246170043945312,4
+Medium-scale,Full TQ-ALNS,None,4,2026070704,2026080104,184.0565009721813,100.0,1,0.9476404190063477,4
+Medium-scale,w/o NFZ repair,No-fly-zone detour / route-accessibility repair,4,2026070704,2026080104,220.06631707847572,100.0,1,1.4823532104492188,4
+Medium-scale,w/o Energy repair,Energy chance-constraint and safe-return repair,4,2026070704,2026080104,184.0565009721813,100.0,1,0.942122220993042,4
+Medium-scale,w/o Compatibility repair,UAV-type compatibility repair,4,2026070704,2026080104,292.05980591424833,100.0,1,0.8003051280975342,4
+Medium-scale,w/o All specific repairs,All tailored repair mechanisms,4,2026070704,2026080104,270.05370876374326,100.0,1,2.115400791168213,4
+Medium-scale,Full TQ-ALNS,None,5,2026070705,2026080105,184.0594269861969,100.0,1,0.9422800540924072,4
+Medium-scale,w/o NFZ repair,No-fly-zone detour / route-accessibility repair,5,2026070705,2026080105,220.0512913024672,100.0,1,0.9879491329193115,4
+Medium-scale,w/o Energy repair,Energy chance-constraint and safe-return repair,5,2026070705,2026080105,184.0594269861969,100.0,1,0.7683298587799072,4
+Medium-scale,w/o Compatibility repair,UAV-type compatibility repair,5,2026070705,2026080105,220.0512913024672,100.0,1,0.68699049949646,4
+Medium-scale,w/o All specific repairs,All tailored repair mechanisms,5,2026070705,2026080105,220.0512913024672,100.0,1,0.893258810043335,4
+Medium-scale,Full TQ-ALNS,None,6,2026070706,2026080106,198.0641539348888,100.0,1,0.958817720413208,4
+Medium-scale,w/o NFZ repair,No-fly-zone detour / route-accessibility repair,6,2026070706,2026080106,198.06794463345813,100.0,1,1.1735358238220215,4
+Medium-scale,w/o Energy repair,Energy chance-constraint and safe-return repair,6,2026070706,2026080106,198.0641539348888,100.0,1,0.9241845607757568,4
+Medium-scale,w/o Compatibility repair,UAV-type compatibility repair,6,2026070706,2026080106,220.053795729923,100.0,1,0.8245413303375244,4
+Medium-scale,w/o All specific repairs,All tailored repair mechanisms,6,2026070706,2026080106,220.053795729923,100.0,1,1.1859087944030762,4
+Medium-scale,Full TQ-ALNS,None,7,2026070707,2026080107,184.06174220581414,100.0,1,0.9094226360321045,4
+Medium-scale,w/o NFZ repair,No-fly-zone detour / route-accessibility repair,7,2026070707,2026080107,198.05485860635267,100.0,1,1.3940472602844238,4
+Medium-scale,w/o Energy repair,Energy chance-constraint and safe-return repair,7,2026070707,2026080107,184.06174220581414,100.0,1,0.8566479682922363,4
+Medium-scale,w/o Compatibility repair,UAV-type compatibility repair,7,2026070707,2026080107,212.05220697799962,100.0,1,0.8558557033538818,4
+Medium-scale,w/o All specific repairs,All tailored repair mechanisms,7,2026070707,2026080107,219.54191717841493,90.0,1,1.0362210273742676,4
+Medium-scale,Full TQ-ALNS,None,8,2026070708,2026080108,198.06439001170537,100.0,1,0.8466598987579346,4
+Medium-scale,w/o NFZ repair,No-fly-zone detour / route-accessibility repair,8,2026070708,2026080108,220.07392861965076,100.0,1,1.2119596004486084,4
+Medium-scale,w/o Energy repair,Energy chance-constraint and safe-return repair,8,2026070708,2026080108,198.06439001170537,100.0,1,0.9381003379821777,4
+Medium-scale,w/o Compatibility repair,UAV-type compatibility repair,8,2026070708,2026080108,234.0598494594059,100.0,1,0.8639681339263916,4
+Medium-scale,w/o All specific repairs,All tailored repair mechanisms,8,2026070708,2026080108,234.08014135237138,100.0,1,0.9886987209320068,4
+Medium-scale,Full TQ-ALNS,None,9,2026070709,2026080109,184.07460875585684,100.0,1,1.038374900817871,4
+Medium-scale,w/o NFZ repair,No-fly-zone detour / route-accessibility repair,9,2026070709,2026080109,212.0677911649285,100.0,1,1.4170773029327393,4
+Medium-scale,w/o Energy repair,Energy chance-constraint and safe-return repair,9,2026070709,2026080109,184.07460875585684,100.0,1,1.045753002166748,4
+Medium-scale,w/o Compatibility repair,UAV-type compatibility repair,9,2026070709,2026080109,248.06230526815182,100.0,1,0.7781906127929688,4
+Medium-scale,w/o All specific repairs,All tailored repair mechanisms,9,2026070709,2026080109,248.06230526815182,100.0,1,1.1243164539337158,4
+Medium-scale,Full TQ-ALNS,None,10,2026070710,2026080110,220.05992338584753,100.0,1,0.8326740264892578,4
+Medium-scale,w/o NFZ repair,No-fly-zone detour / route-accessibility repair,10,2026070710,2026080110,220.05992338584753,100.0,1,0.9691858291625977,4
+Medium-scale,w/o Energy repair,Energy chance-constraint and safe-return repair,10,2026070710,2026080110,220.05992338584753,100.0,1,0.8101561069488525,4
+Medium-scale,w/o Compatibility repair,UAV-type compatibility repair,10,2026070710,2026080110,270.0572533228313,100.0,1,0.788949728012085,4
+Medium-scale,w/o All specific repairs,All tailored repair mechanisms,10,2026070710,2026080110,270.0572533228313,100.0,1,3.607041120529175,4

@@ -1,0 +1,6 @@
+﻿Instance size,Variant,Removed repair mechanism,Runs,Valid runs,Mean objective value,Gap from Full (%),Standard deviation,CV (%),Mean coverage rate (%),Feasibility rate (%),Mean time (s)
+Medium-scale,Full TQ-ALNS,None,10,10,191.8642749226284,0.0,11.902075698044783,6.203382939760119,100.0,100.0,0.955237603187561
+Medium-scale,w/o NFZ repair,No-fly-zone detour / route-accessibility repair,10,10,212.6628661666275,10.840262603544302,10.373660863828515,4.877984130854538,100.0,100.0,1.2820170164108275
+Medium-scale,w/o Energy repair,Energy chance-constraint and safe-return repair,10,10,191.8642749226284,0.0,11.902075698044783,6.203382939760119,100.0,100.0,0.9350492477416992
+Medium-scale,w/o Compatibility repair,UAV-type compatibility repair,10,10,242.05652429461156,26.16028929420227,24.89299304575277,10.283958723399266,100.0,100.0,0.8072931051254273
+Medium-scale,w/o All specific repairs,All tailored repair mechanisms,10,10,238.20580542835165,24.15328779910228,18.923139018760345,7.944029317309024,98.2,100.0,1.531407356262207

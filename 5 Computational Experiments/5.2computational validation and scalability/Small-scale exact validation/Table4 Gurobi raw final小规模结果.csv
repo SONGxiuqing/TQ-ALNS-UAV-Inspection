@@ -1,0 +1,12 @@
+﻿Instance,J,Scale,Open/total,Gurobi status,Paper Gurobi Obj.,Paper Gap (%),Paper CPU (s),Source/Rerun CPU (s),Source file,Note
+I-3,3,small,3/8,OPTIMAL,447.6619,0.0,2.81,2.81,raw_full_path_results(5).csv,Original source run matches paper after rounding.
+I-4,4,small,3/8,OPTIMAL,385.9835,0.0,20.53,20.53,raw_full_path_results(5).csv,Original source run matches paper after rounding.
+I-5,5,small,3/8,OPTIMAL,452.7408,0.0,15.9,15.9,raw_full_path_results(5).csv,Original source run matches paper after rounding.
+I-6,6,small,3/8,OPTIMAL,402.4411,0.0,32.85,32.85,raw_full_path_results(5).csv,Original source run matches paper after rounding.
+I-7,7,small,3/8,OPTIMAL,395.4138,0.0,45.66,45.66,raw_full_path_results(5).csv,Original source run matches paper after rounding.
+I-8,8,small,3/8,OPTIMAL,374.2779,0.0,26.6,26.6,raw_full_path_results(5).csv,Original source run matches paper after rounding.
+I-9,9,small,3/8,OPTIMAL,452.281,0.0,22.37,22.36657190322876,rerun_raw_results.csv,Original source run matches paper after rounding.
+I-10,10,small,3/8,OPTIMAL,366.2288,0.0,188.04,191.8422498703003,rerun_raw_results.csv,Objective matches rerun; paper CPU time retained as the final manuscript value. Rerun CPU is provided separately because exact-solver wall/CPU time varies across reruns.
+I-11,11,small,3/8,OPTIMAL,364.4325,0.0,300.53,366.8248715400696,rerun_raw_results.csv,Objective matches rerun; paper CPU time retained as the final manuscript value. Rerun CPU is provided separately because exact-solver wall/CPU time varies across reruns.
+I-12,12,small,3/8,OPTIMAL,460.7424,0.0,2051.07,2119.367387533188,rerun_raw_results.csv,Objective matches rerun; paper CPU time retained as the final manuscript value. Rerun CPU is provided separately because exact-solver wall/CPU time varies across reruns.
+I-13,13,small,3/8,OPTIMAL,398.754,0.0,171.59,214.39626502990723,rerun_raw_results.csv,Objective matches rerun; paper CPU time retained as the final manuscript value. Rerun CPU is provided separately because exact-solver wall/CPU time varies across reruns.

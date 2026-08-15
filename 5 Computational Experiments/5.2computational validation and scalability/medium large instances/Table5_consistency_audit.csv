@@ -1,0 +1,57 @@
+﻿Instance,Item,Current manuscript,Available raw-derived value,Match after paper rounding?,Remark
+M50,Gurobi incumbent,949.33,949.3330463362872,Yes,
+M50,Gurobi MIP gap (%),34.94,34.94207989645554,Yes,
+M50,Gurobi CPU (s),1800.63,1800.6297581195831,Yes,
+M50,TQ-ALNS Best Obj.,806.18,806.1768289012593,Yes,
+M50,TQ-ALNS Mean Obj.,853.46,853.4613512800358,Yes,
+M50,TQ-ALNS CV (%),4.02,4.0190611466416515,Yes,
+M50,TQ-ALNS Time (s),565.0,565.0004523277282,Yes,
+M60,Gurobi incumbent,7835.23,7835.233418681164,Yes,
+M60,Gurobi MIP gap (%),92.16,92.16023863146255,Yes,
+M60,Gurobi CPU (s),1800.3,1800.3149719238281,No,Current manuscript value is retained as authoritative; uploaded historical run differs.
+M60,TQ-ALNS Best Obj.,790.87,790.8727127316215,Yes,
+M60,TQ-ALNS Mean Obj.,823.06,824.8526441861634,No,Current manuscript value is retained as authoritative; uploaded historical run differs.
+M60,TQ-ALNS CV (%),2.47,2.5377095624521098,No,Current manuscript value is retained as authoritative; uploaded historical run differs.
+M60,TQ-ALNS Time (s),565.0,565.0006280183792,Yes,
+M70,Gurobi incumbent,1072.82,1072.8241631592973,Yes,
+M70,Gurobi MIP gap (%),43.62,43.623908811649095,Yes,
+M70,Gurobi CPU (s),1800.61,1800.6331279277802,No,Current manuscript value is retained as authoritative; uploaded historical run differs.
+M70,TQ-ALNS Best Obj.,836.03,836.0320456379728,Yes,
+M70,TQ-ALNS Mean Obj.,876.06,876.0633876218141,Yes,
+M70,TQ-ALNS CV (%),2.73,2.7300055714909637,Yes,
+M70,TQ-ALNS Time (s),565.0,565.0003852367402,Yes,
+M80,Gurobi incumbent,1292.02,1329.356218683024,No,Current manuscript value is retained as authoritative; uploaded historical run differs.
+M80,Gurobi MIP gap (%),49.93,51.33952440230253,No,Current manuscript value is retained as authoritative; uploaded historical run differs.
+M80,Gurobi CPU (s),1800.53,1800.7243695259094,No,Current manuscript value is retained as authoritative; uploaded historical run differs.
+M80,TQ-ALNS Best Obj.,898.38,898.3818259603897,Yes,
+M80,TQ-ALNS Mean Obj.,964.57,964.869353024643,No,Current manuscript value is retained as authoritative; uploaded historical run differs.
+M80,TQ-ALNS CV (%),3.01,3.0064836700641884,Yes,
+M80,TQ-ALNS Time (s),565.0,565.0003844499588,Yes,
+L100,Gurobi incumbent,,,Yes,Both indicate no feasible Gurobi incumbent / no raw value.
+L100,Gurobi MIP gap (%),,,Yes,Both indicate no feasible Gurobi incumbent / no raw value.
+L100,Gurobi CPU (s),1800.58,1800.442666053772,No,Current manuscript value is retained as authoritative; uploaded historical run differs.
+L100,TQ-ALNS Best Obj.,1225.98,1225.9847350707569,Yes,
+L100,TQ-ALNS Mean Obj.,1258.11,1258.105501192463,Yes,
+L100,TQ-ALNS CV (%),1.34,1.342883330271208,Yes,
+L100,TQ-ALNS Time (s),545.01,545.0038495063782,No,Current manuscript value is retained as authoritative; uploaded historical run differs.
+L120,Gurobi incumbent,,,Yes,Both indicate no feasible Gurobi incumbent / no raw value.
+L120,Gurobi MIP gap (%),,,Yes,Both indicate no feasible Gurobi incumbent / no raw value.
+L120,Gurobi CPU (s),1800.56,,N/A,No corresponding raw record is present in the uploaded run-level files.
+L120,TQ-ALNS Best Obj.,1178.27,1178.2667709224147,Yes,
+L120,TQ-ALNS Mean Obj.,1191.89,1191.889738245199,Yes,
+L120,TQ-ALNS CV (%),0.97,0.9694414168594555,Yes,
+L120,TQ-ALNS Time (s),545.0,545.0046731710434,Yes,
+L150,Gurobi incumbent,,,Yes,Both indicate no feasible Gurobi incumbent / no raw value.
+L150,Gurobi MIP gap (%),,,Yes,Both indicate no feasible Gurobi incumbent / no raw value.
+L150,Gurobi CPU (s),1800.81,,N/A,No corresponding raw record is present in the uploaded run-level files.
+L150,TQ-ALNS Best Obj.,1402.04,1402.0449115420345,Yes,
+L150,TQ-ALNS Mean Obj.,1447.91,1447.9076479405214,Yes,
+L150,TQ-ALNS CV (%),1.12,1.118309528625017,Yes,
+L150,TQ-ALNS Time (s),545.04,545.0235271692276,No,Current manuscript value is retained as authoritative; uploaded historical run differs.
+L170,Gurobi incumbent,,,Yes,Both indicate no feasible Gurobi incumbent / no raw value.
+L170,Gurobi MIP gap (%),,,Yes,Both indicate no feasible Gurobi incumbent / no raw value.
+L170,Gurobi CPU (s),1800.66,1800.6585125923157,Yes,
+L170,TQ-ALNS Best Obj.,1826.92,1826.9193521752418,Yes,
+L170,TQ-ALNS Mean Obj.,1828.67,1828.6747139134163,Yes,
+L170,TQ-ALNS CV (%),0.04,0.042250719806082464,Yes,
+L170,TQ-ALNS Time (s),545.04,545.0442600488662,Yes,

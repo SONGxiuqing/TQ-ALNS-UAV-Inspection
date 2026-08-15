@@ -1,0 +1,4 @@
+﻿Scale,Table 3 match,Candidate platforms,Opened platforms,Monitoring points,Hazardous sources,No-fly zones,UAVs,Random seed,Valid candidate platforms generated
+Small-scale,PASS,7,3,16,3,2,3,7,7
+Medium-scale,PASS,15,4,50,3,3,4,7,15
+Large-scale,PASS,18,14,300,20,2,14,7,18
