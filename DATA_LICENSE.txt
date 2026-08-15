@@ -1,0 +1,15 @@
+Data Usage Notice
+
+The numerical instances, computational results, summary statistics,
+sensitivity-analysis data, and case-study data contained in this repository
+are provided for academic research, verification, and non-commercial use.
+
+Users may reuse, analyze, and cite these data for scholarly purposes,
+provided that appropriate credit is given to the associated paper and this repository.
+
+Source code is not included in this repository.
+
+When using data from this repository, please cite the associated paper
+and acknowledge this repository as the data source.
+
+Copyright © 2026 The Authors.
