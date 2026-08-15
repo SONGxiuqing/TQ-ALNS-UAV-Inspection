@@ -1,0 +1,96 @@
+﻿point_id,assigned_platform,uav_id,uav_type,prototype,main_service_object
+M001,P01,UAV-A01,Type A,DJI Matrice 4T,"Auxiliary facilities, dense edge points, and utility-related routine inspection"
+M002,P01,UAV-A01,Type A,DJI Matrice 4T,"Auxiliary facilities, dense edge points, and utility-related routine inspection"
+M003,P01,UAV-A01,Type A,DJI Matrice 4T,"Auxiliary facilities, dense edge points, and utility-related routine inspection"
+M004,P01,UAV-A01,Type A,DJI Matrice 4T,"Auxiliary facilities, dense edge points, and utility-related routine inspection"
+M005,P01,UAV-A01,Type A,DJI Matrice 4T,"Auxiliary facilities, dense edge points, and utility-related routine inspection"
+M006,P01,UAV-A01,Type A,DJI Matrice 4T,"Auxiliary facilities, dense edge points, and utility-related routine inspection"
+M007,P01,UAV-A01,Type A,DJI Matrice 4T,"Auxiliary facilities, dense edge points, and utility-related routine inspection"
+M008,P01,UAV-A01,Type A,DJI Matrice 4T,"Auxiliary facilities, dense edge points, and utility-related routine inspection"
+M009,P01,UAV-A01,Type A,DJI Matrice 4T,"Auxiliary facilities, dense edge points, and utility-related routine inspection"
+M010,P01,UAV-A01,Type A,DJI Matrice 4T,"Auxiliary facilities, dense edge points, and utility-related routine inspection"
+M011,P01,UAV-A01,Type A,DJI Matrice 4T,"Auxiliary facilities, dense edge points, and utility-related routine inspection"
+M012,P01,UAV-A01,Type A,DJI Matrice 4T,"Auxiliary facilities, dense edge points, and utility-related routine inspection"
+M013,P01,UAV-A01,Type A,DJI Matrice 4T,"Auxiliary facilities, dense edge points, and utility-related routine inspection"
+M014,P01,UAV-A01,Type A,DJI Matrice 4T,"Auxiliary facilities, dense edge points, and utility-related routine inspection"
+M015,P01,UAV-A01,Type A,DJI Matrice 4T,"Auxiliary facilities, dense edge points, and utility-related routine inspection"
+M016,P01,UAV-A01,Type A,DJI Matrice 4T,"Auxiliary facilities, dense edge points, and utility-related routine inspection"
+M017,P01,UAV-A01,Type A,DJI Matrice 4T,"Auxiliary facilities, dense edge points, and utility-related routine inspection"
+M018,P02,UAV-B01,Type B,RY-V30,"Peripheral storage area, port-supporting belt, and corridor inspection"
+M019,P02,UAV-B01,Type B,RY-V30,"Peripheral storage area, port-supporting belt, and corridor inspection"
+M020,P02,UAV-B01,Type B,RY-V30,"Peripheral storage area, port-supporting belt, and corridor inspection"
+M021,P02,UAV-B01,Type B,RY-V30,"Peripheral storage area, port-supporting belt, and corridor inspection"
+M022,P02,UAV-B01,Type B,RY-V30,"Peripheral storage area, port-supporting belt, and corridor inspection"
+M023,P02,UAV-B01,Type B,RY-V30,"Peripheral storage area, port-supporting belt, and corridor inspection"
+M024,P02,UAV-B01,Type B,RY-V30,"Peripheral storage area, port-supporting belt, and corridor inspection"
+M025,P02,UAV-B01,Type B,RY-V30,"Peripheral storage area, port-supporting belt, and corridor inspection"
+M026,P02,UAV-B01,Type B,RY-V30,"Peripheral storage area, port-supporting belt, and corridor inspection"
+M027,P02,UAV-B01,Type B,RY-V30,"Peripheral storage area, port-supporting belt, and corridor inspection"
+M028,P02,UAV-B01,Type B,RY-V30,"Peripheral storage area, port-supporting belt, and corridor inspection"
+M029,P02,UAV-B01,Type B,RY-V30,"Peripheral storage area, port-supporting belt, and corridor inspection"
+M030,P02,UAV-B01,Type B,RY-V30,"Peripheral storage area, port-supporting belt, and corridor inspection"
+M031,P02,UAV-B01,Type B,RY-V30,"Peripheral storage area, port-supporting belt, and corridor inspection"
+M032,P02,UAV-B01,Type B,RY-V30,"Peripheral storage area, port-supporting belt, and corridor inspection"
+M033,P02,UAV-B01,Type B,RY-V30,"Peripheral storage area, port-supporting belt, and corridor inspection"
+M034,P02,UAV-B01,Type B,RY-V30,"Peripheral storage area, port-supporting belt, and corridor inspection"
+M035,P02,UAV-B01,Type B,RY-V30,"Peripheral storage area, port-supporting belt, and corridor inspection"
+M036,P02,UAV-B01,Type B,RY-V30,"Peripheral storage area, port-supporting belt, and corridor inspection"
+M037,P02,UAV-B01,Type B,RY-V30,"Peripheral storage area, port-supporting belt, and corridor inspection"
+M038,P02,UAV-B01,Type B,RY-V30,"Peripheral storage area, port-supporting belt, and corridor inspection"
+M039,P02,UAV-B01,Type B,RY-V30,"Peripheral storage area, port-supporting belt, and corridor inspection"
+M040,P03,UAV-C01,Type C,TR100,Core process units and hazardous-source surroundings
+M041,P03,UAV-C01,Type C,TR100,Core process units and hazardous-source surroundings
+M042,P03,UAV-C01,Type C,TR100,Core process units and hazardous-source surroundings
+M043,P03,UAV-C01,Type C,TR100,Core process units and hazardous-source surroundings
+M044,P03,UAV-C01,Type C,TR100,Core process units and hazardous-source surroundings
+M045,P03,UAV-C01,Type C,TR100,Core process units and hazardous-source surroundings
+M046,P03,UAV-C01,Type C,TR100,Core process units and hazardous-source surroundings
+M047,P03,UAV-C01,Type C,TR100,Core process units and hazardous-source surroundings
+M048,P03,UAV-C01,Type C,TR100,Core process units and hazardous-source surroundings
+M049,P03,UAV-C01,Type C,TR100,Core process units and hazardous-source surroundings
+M050,P03,UAV-C01,Type C,TR100,Core process units and hazardous-source surroundings
+M051,P03,UAV-C01,Type C,TR100,Core process units and hazardous-source surroundings
+M052,P03,UAV-C01,Type C,TR100,Core process units and hazardous-source surroundings
+M053,P03,UAV-C01,Type C,TR100,Core process units and hazardous-source surroundings
+M054,P03,UAV-C01,Type C,TR100,Core process units and hazardous-source surroundings
+M055,P03,UAV-C01,Type C,TR100,Core process units and hazardous-source surroundings
+M056,P03,UAV-C01,Type C,TR100,Core process units and hazardous-source surroundings
+M057,P03,UAV-C01,Type C,TR100,Core process units and hazardous-source surroundings
+M058,P03,UAV-C01,Type C,TR100,Core process units and hazardous-source surroundings
+M059,P03,UAV-C01,Type C,TR100,Core process units and hazardous-source surroundings
+M060,P03,UAV-C01,Type C,TR100,Core process units and hazardous-source surroundings
+M061,P04,UAV-B02,Type B,RY-V30,Storage tank area and adjacent main pipe-rack corridor
+M062,P04,UAV-B02,Type B,RY-V30,Storage tank area and adjacent main pipe-rack corridor
+M063,P04,UAV-B02,Type B,RY-V30,Storage tank area and adjacent main pipe-rack corridor
+M064,P04,UAV-B02,Type B,RY-V30,Storage tank area and adjacent main pipe-rack corridor
+M065,P04,UAV-B02,Type B,RY-V30,Storage tank area and adjacent main pipe-rack corridor
+M066,P04,UAV-B02,Type B,RY-V30,Storage tank area and adjacent main pipe-rack corridor
+M067,P04,UAV-B02,Type B,RY-V30,Storage tank area and adjacent main pipe-rack corridor
+M068,P04,UAV-B02,Type B,RY-V30,Storage tank area and adjacent main pipe-rack corridor
+M069,P04,UAV-B02,Type B,RY-V30,Storage tank area and adjacent main pipe-rack corridor
+M070,P04,UAV-B02,Type B,RY-V30,Storage tank area and adjacent main pipe-rack corridor
+M071,P04,UAV-B02,Type B,RY-V30,Storage tank area and adjacent main pipe-rack corridor
+M072,P04,UAV-B02,Type B,RY-V30,Storage tank area and adjacent main pipe-rack corridor
+M073,P04,UAV-B02,Type B,RY-V30,Storage tank area and adjacent main pipe-rack corridor
+M074,P04,UAV-B02,Type B,RY-V30,Storage tank area and adjacent main pipe-rack corridor
+M075,P04,UAV-B02,Type B,RY-V30,Storage tank area and adjacent main pipe-rack corridor
+M076,P04,UAV-B02,Type B,RY-V30,Storage tank area and adjacent main pipe-rack corridor
+M077,P04,UAV-B02,Type B,RY-V30,Storage tank area and adjacent main pipe-rack corridor
+M078,P04,UAV-B02,Type B,RY-V30,Storage tank area and adjacent main pipe-rack corridor
+M079,P05,UAV-C02,Type C,TR100,Public engineering area and emergency-support-related facilities
+M080,P05,UAV-C02,Type C,TR100,Public engineering area and emergency-support-related facilities
+M081,P05,UAV-C02,Type C,TR100,Public engineering area and emergency-support-related facilities
+M082,P05,UAV-C02,Type C,TR100,Public engineering area and emergency-support-related facilities
+M083,P05,UAV-C02,Type C,TR100,Public engineering area and emergency-support-related facilities
+M084,P05,UAV-C02,Type C,TR100,Public engineering area and emergency-support-related facilities
+M085,P05,UAV-C02,Type C,TR100,Public engineering area and emergency-support-related facilities
+M086,P05,UAV-C02,Type C,TR100,Public engineering area and emergency-support-related facilities
+M087,P05,UAV-C02,Type C,TR100,Public engineering area and emergency-support-related facilities
+M088,P05,UAV-C02,Type C,TR100,Public engineering area and emergency-support-related facilities
+M089,P05,UAV-C02,Type C,TR100,Public engineering area and emergency-support-related facilities
+M090,P05,UAV-C02,Type C,TR100,Public engineering area and emergency-support-related facilities
+M091,P05,UAV-C02,Type C,TR100,Public engineering area and emergency-support-related facilities
+M092,P05,UAV-C02,Type C,TR100,Public engineering area and emergency-support-related facilities
+M093,P05,UAV-C02,Type C,TR100,Public engineering area and emergency-support-related facilities
+M094,P05,UAV-C02,Type C,TR100,Public engineering area and emergency-support-related facilities
+M095,P05,UAV-C02,Type C,TR100,Public engineering area and emergency-support-related facilities

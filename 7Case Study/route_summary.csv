@@ -1,0 +1,6 @@
+﻿route,platform,uav_id,uav_type,prototype,monitoring_points,number,route_length_km,flight_time_h,energy_q95_Wh,battery_Wh,NFZ_safe,beta_0_95_energy_feasible,main_service_object
+Route 1,P01,UAV-A01,Type A,DJI Matrice 4T,M001–M017,17,8.007876215860367,0.1334646035976728,212.84934981756854,800.0,True,True,"Auxiliary facilities, dense edge points, and utility-related routine inspection"
+Route 2,P02,UAV-B01,Type B,RY-V30,M018–M039,22,15.958095966276352,0.21277461288368468,530.2077384795318,1200.0,True,True,"Peripheral storage area, port-supporting belt, and corridor inspection"
+Route 3,P03,UAV-C01,Type C,TR100,M040–M060,21,21.03546766853822,0.23372741853931356,978.4647786020554,2000.0,True,True,Core process units and hazardous-source surroundings
+Route 4,P04,UAV-B02,Type B,RY-V30,M061–M078,18,14.892659646298975,0.19856879528398633,494.8086167482835,1200.0,True,True,Storage tank area and adjacent main pipe-rack corridor
+Route 5,P05,UAV-C02,Type C,TR100,M079–M095,17,18.935939631515186,0.21039932923905763,880.8052319599288,2000.0,True,True,Public engineering area and emergency-support-related facilities

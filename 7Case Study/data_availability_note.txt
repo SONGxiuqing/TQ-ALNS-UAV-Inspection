@@ -1,0 +1,5 @@
+Data availability note
+
+The manuscript reports 20 candidate platform sites and five opened platforms. The uploaded source data available for this package contain coordinates for the five selected/opened platforms, 95 monitoring points, five hazardous sources, three fixed no-fly zones, and the park boundary.
+
+Coordinates for the other 15 candidate platform sites were not present in the supplied files. No synthetic coordinates were created to fill this gap. If the full 20-candidate-site file is later supplied, it should be added as `candidate_platforms_20.csv` and used for a complete location-selection audit.
